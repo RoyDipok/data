@@ -1,7 +1,7 @@
 {
     "app_version": 1,
     "update_aleart": false,
-    "minimum_version": 1,
+    "minimum_version": 0,
     "home_title": "Presets pro",
     "home_sub_message": "500+ presets",
     "new_sub_title": "+10 presets",
